@@ -1,0 +1,33 @@
+body {
+    background: #e4bb6f;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 640px;
+}
